@@ -1,4 +1,9 @@
-a :visited ¨{
-    color:darkgrey
-    border-color black 
+a:link{
+    color:red
 }
+a:hover{
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+
