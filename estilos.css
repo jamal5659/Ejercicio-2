@@ -6,4 +6,12 @@ a:hover{
     border-radius: 15px;
 }
 
+a :visited{
+   border-color:hotpink;
+   color:hotpink;
 
+}
+
+a :active{
+    color:lime;
+}
